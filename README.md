@@ -2,7 +2,11 @@
 ## Do not rely on this library as it is just what I use to print barcodes for my home inventory system
 
 ### usage 
+
+```
 dymobarcode <pdf|print> <text>
+```
+
 ### ex
 
 ```
